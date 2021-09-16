@@ -6,10 +6,10 @@
 # --- Required options --- #
 
 # Name of website
-title: My Website
+title: Directional Chameleon Hash Based Redactable Blockchain
 
 # Your name to show in the footer
-author: Some Person
+author: Science and Technology on Information Systems Engineering Laboratory
 
 # --- List of links in the navigation bar --- #
 
@@ -18,7 +18,7 @@ navbar-links:
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  Author's home: "http://www.greenorbs.org/people/liu/guodeke/"
 
 # --- Logo --- #
 
